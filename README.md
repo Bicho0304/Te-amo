@@ -66,7 +66,7 @@
     </style>
 </head>
 <body>
-    <audio id="musica-romantica" src="tu-musica.mp3"></audio>
+    <audio id="musica-romantica" src="audio.mp3"></audio>
     <div id="carta-animada"></div>
     <div id="mensaje" onclick="iniciarRompecabezas()">Te llegó una carta, ábrela</div>
     <div id="puzzle-container">
